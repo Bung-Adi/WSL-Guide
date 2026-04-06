@@ -7,11 +7,13 @@ jumpt to :
 [4. Basic](#4-basic-command)  
 [5. Whats Next](#5-Whats-Next)
 
+___  
 ### 1 why you should use WSL  
 For some people many things need or better to do in linux but  dualboot is feel to much especially diskspace things.
 In my case I use WSL for Docker and OpenCode for now.
 but maybe will be usefull for other things too in the future.  
 
+___  
 ### 2 Make sure device and windows OS ready
 The First thing first preparation to use WSL (Windows sub-sistem linux) make sure your Windows device ready 
 
@@ -23,15 +25,13 @@ The First thing first preparation to use WSL (Windows sub-sistem linux) make sur
 1. If you have an AMD CPU: Look for SVM Mode.
 * Enable it Save end Exit boot menu.  
 
-___  
-
 - when you back to your Windows  
 In the search bar search "Turn Windows features on or off" and make sure these are checked :  
 1. Virtual Machine Platform
 2. Virtual Machine Platform  
 - then you might need to restart again
 
-
+___  
 ### 3. Install the base
 
 #### I install Debian  
@@ -40,6 +40,7 @@ for WSL to work you need to install base Linux Os Distro. In my case I install D
 to use these Debian WSL.  
 just type `wsl` in command prompt  
     
+___  
 ### 4. basic command
 
 ##### to detect whats installed  
@@ -62,5 +63,6 @@ or
 #####
 `wsl --help`
 
+___  
 ### 5 Whats Next
 - [Docker on WSL](Docker/index-docker.md)
