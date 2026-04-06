@@ -1,4 +1,7 @@
 # WSL Guide
+![windows](https://img.shields.io/badge/Windows-blue)
+![linux](https://img.shields.io/badge/Linux-red?logo=linux)
+![wsl](https://img.shields.io/badge/WSL-orange)
 
 jumpt to :  
 [1. Why](#1-why-you-should-use-WSL)  
@@ -9,7 +12,7 @@ jumpt to :
 
 ___  
 ### 1 why you should use WSL  
-For some people many things need or better to do in linux but  dualboot is feel to much especially diskspace things.
+For some people many things need or better to do in linux but  dualboot is feel too much especially diskspace things.
 In my case I use WSL for Docker and OpenCode for now.
 but maybe will be usefull for other things too in the future.  
 
