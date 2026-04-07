@@ -69,3 +69,4 @@ or
 ___  
 ### 5 Whats Next
 - [Docker on WSL](Docker/index-docker.md)
+- [OpenCode on WSL](OpenCode/index-opencode.md)
