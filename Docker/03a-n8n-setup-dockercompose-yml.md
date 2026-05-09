@@ -11,7 +11,7 @@ nano docker-compose.yml
 `  
   
 3. Paste the YAML script  
-`
+```
 version: "3.8"
 
 services:
@@ -31,7 +31,7 @@ services:
 volumes:
   n8n_data:
     driver: local
-`  
+```  
   
 4. launch n8n again:
 `
