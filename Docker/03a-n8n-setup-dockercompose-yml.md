@@ -1,4 +1,4 @@
-if you dont have docker-compose.yml make it with  
+if you dont have docker-compose.yml and you not yet setup signin things of your n8n make it by follow these steps    
   
 1. In WSL, go to your project folder:
 `
